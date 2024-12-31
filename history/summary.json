@@ -1,22 +1,22 @@
 [
   {
     "name": "AB - DEV",
-    "url": "${{ secrets.AB_DEV }}",
+    "url": "$AB_DEV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ab-dev",
-    "status": "down",
-    "uptime": "90.07%",
-    "uptimeDay": "90.07%",
-    "uptimeWeek": "90.07%",
-    "uptimeMonth": "90.07%",
-    "uptimeYear": "90.07%",
-    "time": 82,
-    "timeDay": 82,
-    "timeWeek": 82,
-    "timeMonth": 82,
-    "timeYear": 82,
+    "status": "up",
+    "uptime": "74.50%",
+    "uptimeDay": "74.50%",
+    "uptimeWeek": "74.50%",
+    "uptimeMonth": "74.50%",
+    "uptimeYear": "74.50%",
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2024-12-31": 3
+      "2024-12-31": 9
     }
   }
 ]
