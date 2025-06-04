@@ -1,7 +1,7 @@
 url: $AB_DEV
-status: down
-code: 403
-responseTime: 700
-lastUpdated: 2025-06-04T07:52:05.695Z
+status: up
+code: 200
+responseTime: 1225
+lastUpdated: 2025-06-04T08:12:30.749Z
 startTime: 2024-12-31T13:36:20.203Z
 generator: Upptime <https://github.com/upptime/upptime>
